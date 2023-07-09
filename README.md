@@ -1,5 +1,6 @@
 # admin-dashboard
 
+https://pradnyadeva.github.io/admin-dashboard/
 This repository contains the project I developed as part of my studies in The Odin Project. The Odin Project is a comprehensive web development curriculum that covers various topics and technologies. This project focuses on implementing grid layouts, which is a fundamental skill in modern web development.
 
 # Project Description
