@@ -11,3 +11,14 @@ Grid-based layout: The project extensively utilizes grid systems to structure an
 Responsive design: The implemented grid layouts ensure that the application is fully responsive and adapts seamlessly to different screen sizes and devices.
 
 Grid-specific techniques: The project explores various grid-specific techniques such as grid areas, alignment, spanning, and nesting to create dynamic and complex layouts.
+
+# Contributions
+Contributions to this project are currently not open. However, if you have any suggestions, feedback, or improvements you would like to share, please feel free to reach out to me. Your input is always appreciated.
+
+# License
+The contents of this repository are licensed under the MIT License. Please refer to the license file for more information.
+
+# Contact
+If you have any questions or want to connect with me, you can reach me via the contact information provided in my GitHub profile.
+
+Thank you for your interest in my grid implementation project developed during The Odin Project!
